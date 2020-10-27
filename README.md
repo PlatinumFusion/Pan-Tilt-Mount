@@ -1,3 +1,6 @@
+# Forked
+Changed the pintout to reflect the CNC Shield normally used for GRBL.
+
 # 3-Axis Slider
 A stepper motor driven, 3D printed and Arduino Nano controlled 3-axis slider.
 
